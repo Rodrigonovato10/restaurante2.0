@@ -1,8 +1,8 @@
 
 export default {
-    secret: '0c99e4e3313e66a7e1965f73d1a67495',
+    secret: '975359016138b0223ab789505f7dbeca',
     expiresIn:'5d',
 };
 
 
-//  criptografia "restaurante"
+//  17 04 2024 975359016138b0223ab789505f7dbeca
